@@ -1,4 +1,5 @@
 /bin
+/src/exercises
 .settings/
 .classpath
 .project

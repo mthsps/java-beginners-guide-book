@@ -51,7 +51,7 @@ public class GenericQueueDemo {
 		
 		try {
 			
-			for (int i =0; i < 5; i++) {
+			for (int i =0; i < 6; i++) {
 				System.out.println("Getting next Double from queue2: ");
 				doubleValue = queue2.get();
 				System.out.println(doubleValue);
